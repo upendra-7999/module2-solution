@@ -6,16 +6,16 @@
   // (Note, Step 2 will be done in the SpeakHello.js file.)
 
   var names = [
-    "Nisha",
-    "Aman",
-    "Ram",
-    "Ramesh",
+    "Yaakov",
+    "John",
+    "Jen",
+    "Jen",
     "Paul",
-    "neha",
-    "Lara",
+    "Frank",
+    "Larry",
     "Paula",
     "Laura",
-    "Hr",
+    "Jim",
   ];
 
   // STEP 10:
